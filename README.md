@@ -1,3 +1,4 @@
 # RobotFriends
 
-Small react app. Build to improve my react skills
+Small react app. 
+Build to improve my react skills
